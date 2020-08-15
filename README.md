@@ -1,3 +1,3 @@
 # hello-world
-my first repository
-I'm a novice
+my first repository;
+I'm a novice;
